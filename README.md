@@ -6,16 +6,19 @@ I'm **Harsh Upadhyay**, a passionate **Computer Science Student**. I love explor
 
 I’m a Final-year B.Tech student with a strong interest in **Data Analytics**, **Java Development**, and **.NET Development**.
 
-I am passionate about solving real-world problems using data and software solutions. Currently, I am strengthening my fundamentals by working on hands-on projects, practicing coding problems, and learning industry-relevant tools and technologies.
+I am Passionate about Solving Real-World Problems Using Data and Software Solutions. Currently, I am Strengthening My Fundamentals By Working On Hands-on Projects, Practicing Coding Problems, and Learning Industry-Relevant Tools and Technologies.
 
 I enjoy analyzing data to derive meaningful insights, building backend logic using Java, and developing applications using C# and .NET. I am also familiar with Git and GitHub for version control and collaborative development.
 
 I am actively looking for **Internship and Entry-level opportunities** where I can learn, contribute, and grow as a **Data Analyst or Software Developer**.
 
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)](https://skillicons.dev)
+
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
 
 ## Top Projects
 
