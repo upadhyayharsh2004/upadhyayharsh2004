@@ -16,16 +16,6 @@ I am actively looking for **Internship and Entry-level opportunities** where I c
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)](https://skillicons.dev)
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayharsh2004&layout=compact&theme=dark&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=upadhyayharsh2004&theme=dark)
-
-
 ## Top Projects
 
 - [Netflix Clone Responsive Streaming Platform UI](https://github.com/upadhyayharsh2004/Netflix-Clone-Responsive-Streaming-Platform-UI): A fully responsive web application replicating the core design and user experience of Netflix. **Stars:** 0, **Language:** HTML
