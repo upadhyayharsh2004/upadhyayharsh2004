@@ -17,6 +17,13 @@ I am actively looking for **Internship and Entry-level opportunities** where I c
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)](https://skillicons.dev)
 
 ## Github Stats
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayharsh2004&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=upadhyayharsh2004)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
 
