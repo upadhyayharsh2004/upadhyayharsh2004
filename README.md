@@ -19,13 +19,12 @@ I am actively looking for **Internship and Entry-level opportunities** where I c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true&theme=dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayharsh2004&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayharsh2004&layout=compact&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=upadhyayharsh2004)
+![GitHub Streak](https://streak-stats.demolab.com?user=upadhyayharsh2004&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
 
 ## Top Projects
 
