@@ -16,7 +16,7 @@ I am actively looking for **Internship and Entry-level opportunities** where I c
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)](https://skillicons.dev)
 
-## Github Stats
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayharsh2004&show_icons=true)
@@ -38,7 +38,3 @@ I am actively looking for **Internship and Entry-level opportunities** where I c
 - Pushed to [BridgeLabz Training](https://github.com/upadhyayharsh2004/BridgeLabz-Training)
 - Updated [Netflix Clone Responsive Streaming Platform UI](https://github.com/upadhyayharsh2004/Netflix-Clone-Responsive-Streaming-Platform-UI)
 - Contributed to [Banglore House Prediction Using Machine Learning](https://github.com/upadhyayharsh2004/Banglore_House_Prediction_Using_Machine_Learning)
-
-## Connect with Me
-
-{"generic":"https://leetcode.com/u/user4369i/"}
