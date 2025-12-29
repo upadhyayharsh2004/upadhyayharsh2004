@@ -8,7 +8,7 @@ I'm currently a Computer Science student with a keen interest in software develo
 
 ## Skills & Technologies
 
--[Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,spring,dotnet,cs,py&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
